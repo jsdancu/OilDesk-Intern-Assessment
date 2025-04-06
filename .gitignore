@@ -45,3 +45,12 @@ __pycache__/
 *.log
 *.sql
 *.sqlite
+*.csv
+*.pickle
+*.pkl
+
+# PDF and images #
+#######
+*.pdf
+*.png
+*.jpg
