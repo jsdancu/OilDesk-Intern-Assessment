@@ -7,6 +7,7 @@ dependencies:
   - _openmp_mutex=4.5=2_gnu
   - _py-xgboost-mutex=2.0=cpu_0
   - absl-py=2.1.0=pyhd8ed1ab_0
+  - aiosqlite=0.20.0=pyhaa4b35c_1
   - alsa-lib=1.2.12=h4ab18f5_0
   - anyio=4.4.0=pyhd8ed1ab_0
   - argon2-cffi=23.1.0=pyhd8ed1ab_0

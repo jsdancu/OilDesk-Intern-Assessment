@@ -48,6 +48,7 @@ __pycache__/
 *.csv
 *.pickle
 *.pkl
+*.db
 
 # PDF and images #
 #######
