@@ -79,7 +79,6 @@ This take-home assessment is designed to gauge your proficiency in Python and pr
 1. Ensure that all code is clean, well-commented, and accompanied by explanations of your approach and reasoning.
 2. Make your git commit history make sense.
 2. Commit your Jupyter Notebook and any auxiliary files to your forked GitHub repository.
-3. Submit the GitHub repository URL through email, to rkhanna@hartreepartners.com , by the deadline provided.
 
 ---
 
